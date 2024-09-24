@@ -28,4 +28,4 @@ Hello! My name is Sergei Kruchinin, and I'm a software developer with a keen int
 
 ## Mutual Follow Policy
 
-I appreciate every follow and strive to follow back. However, please do not follow me just to unfollow later. I monitor such cases and consider it dishonest behavior.
+I appreciate every follow and strive to follow back. However, please do not follow me just to unfollow later. I monitor such cases and consider it dishonest behavior. See [https://github.com/sergei-kruchinin/stop-gh-spammers] - a tool for detecting and dealing with dishonest followers on GitHub.
