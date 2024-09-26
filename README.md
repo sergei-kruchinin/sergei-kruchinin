@@ -20,7 +20,7 @@ Hello! My name is Sergei Kruchinin, and I'm a software developer with a keen int
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=Scrum&logoColor=white)
 
 ## My Projects
-- [Auth Service](https://github.com/sergei-kruchinin/flask-auth-service) - Auth Service is a robust and modular authentication and authorization system, supporting Flask and FastAPI frameworks on your own choice. It supports traditional authentication as well as OAuth authentication (e.g., Yandex). The service uses JWT for token handling and includes user management functionality.
+- [Auth Service](https://github.com/sergei-kruchinin/auth-service) - Auth Service is a robust and modular authentication and authorization system, supporting Flask and FastAPI frameworks on your own choice. It supports traditional authentication as well as OAuth authentication (e.g., Yandex). The service uses JWT for token handling and includes user management functionality.
 <!--
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergei-kruchinin&show_icons=true&theme=radical)
